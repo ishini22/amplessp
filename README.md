@@ -41,9 +41,14 @@ This solution includes several essential features to enhance customer management
 
 ## Project Documentation
 
+[Document](https://github.com/ishini22/amplessp/blob/main/CB008524%20SSP%20-%202.pdf)
+
 
 ## Interfaces
-
+<ul>
+  <li>Home Page</li>
+  <li>Admin Dashboard and functions</li>
+  <li>Customer Dashboard and functions</li>
 ## Prerequisites
 <ul>
 <li>NPM</li>
