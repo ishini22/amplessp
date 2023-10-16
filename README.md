@@ -1,5 +1,8 @@
 
-# E Commerce Website with a CRM System (Clothing Store)
+# E-Commerce Website with a CRM System (Clothing Store)
+
+
+
 
 ## Table of Content
 
@@ -9,7 +12,6 @@
 - [Interfaces](Interfaces)
 - [Prerequisites](Prerequisites)
 - [Installation](Installation)
-- [CRM System](CRM-System)
 - [Technologies Used](Technologies-Used)
 - [License](License)
 
@@ -19,6 +21,10 @@
 The "Ample Clothing" system is an innovative synthesis of modern Customer Relationship Management (CRM) features with contemporary e-commerce capabilities. A smooth apparel purchase is made possible mainly to the web-based solution, which is meticulously developed to empower both consumers and administrators and create strong, long-lasting customer connections.
 
 This solution includes several essential features to enhance customer management, product management, order management, and user authentication. The e-commerce website provides a user- friendly interface which allows customers to buy clothes online. Customers can create their accounts using email and password, allowing them to personalize their shopping experience and Customers can browse and explore a product catalog provided by the application and may access comprehensive product details, such as descriptions, costs, and photographs, allowing them to make wise purchases.
+
+## Project Documentation
+
+[Document](https://github.com/ishini22/amplessp/blob/main/CB008524%20SSP%20-%202.pdf)
 
 ## Features of the system
 
@@ -39,9 +45,6 @@ This solution includes several essential features to enhance customer management
 </ul>
 
 
-## Project Documentation
-
-[Document](https://github.com/ishini22/amplessp/blob/main/CB008524%20SSP%20-%202.pdf)
 
 
 ## Interfaces
@@ -49,6 +52,7 @@ This solution includes several essential features to enhance customer management
   <li>Home Page</li>
   <li>Admin Dashboard and functions</li>
   <li>Customer Dashboard and functions</li>
+  
 ## Prerequisites
 <ul>
 <li>NPM</li>
