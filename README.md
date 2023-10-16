@@ -40,9 +40,23 @@ This solution includes several essential features to enhance customer management
 
 
 ## Project Documentation
+
+
 ## Interfaces
+
 ## Prerequisites
+<ul>
+<li>NPM</li>
+<li>Node.js</li>
+<li>MySQL</li>
+<li>PHP 8</li>
+<li>Composer</li>
+</ul>
+
 ## Installation
+ Before installation , ensure that Composer, Node.js, NPM, PHP, and a database (MySQL or SQLite) properly installed on your system.
+
+ <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="https://github.com/anngithub1234/SalonHair.git"><pre>https://github.com/anngithub1234/SalonHair.git</pre></div>
 ## CRM System
 ## Technologies Used
 ## License
