@@ -85,14 +85,14 @@ Open your web browser and go to http://localhost:8000 to access the site.</li>
 ## Technologies Used
 
 <ul>
-        <li><strong>Database:</strong> <br> MySQL</li>
-        <li><strong>Libraries:</strong> <br> Livewire, Chart.js</li>
-        <li><strong>CSS Framework:</strong> <br> Tailwind CSS</li>
-        <li><strong>Testing Email Functionality:</strong> <br> MailTrap</li>
-        <li><strong>Languages:</strong> <br> JavaScript, PHP</li>
-        <li><strong>Application Scaffolding:</strong> <br> Laravel Jetstream</li>
-        <li><strong>Frameworks:</strong> <br> Laravel</li>
-        <li><strong>JavaScript Framework:</strong> <br> Alpine.js</li>
+        <li><strong>Database:</strong> <br> MySQL</li> <br>
+        <li><strong>Libraries:</strong> <br> Livewire, Chart.js</li> <br>
+        <li><strong>CSS Framework:</strong> <br> Tailwind CSS</li> <br>
+        <li><strong>Testing Email Functionality:</strong> <br> MailTrap</li> <br>
+        <li><strong>Languages:</strong> <br> JavaScript, PHP</li> <br>
+        <li><strong>Application Scaffolding:</strong> <br> Laravel Jetstream</li> <br>
+        <li><strong>Frameworks:</strong> <br> Laravel</li> <br>
+        <li><strong>JavaScript Framework:</strong> <br> Alpine.js</li> <br>
     </ul>
     
 ## License
