@@ -56,7 +56,32 @@ This solution includes several essential features to enhance customer management
 ## Installation
  Before installation , ensure that Composer, Node.js, NPM, PHP, and a database (MySQL or SQLite) properly installed on your system.
 
- <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="https://github.com/anngithub1234/SalonHair.git"><pre>https://github.com/anngithub1234/SalonHair.git</pre></div>
+<ol><li>Clone the repository
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="https://github.com/ishini22/amplessp.git"><pre>https://github.com/ishini22/amplessp</pre></div></li>
+
+<li>Navigate to the Project Directory:
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="Project2"><pre>cd Project2</pre></div></li>
+
+<li>Install Composer Packages:
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="Composer install"><pre>Composer install</pre></div></li>
+
+<li>Install NPM Packages:
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="npm install"><pre>npm install</pre></div></li>
+
+<li>Run Migrations:
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="php artisan migrate"><pre>php artisan migrate</pre></div></li>
+
+<li>Compile Assets:
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="npm run dev"><pre>npm run dev</pre></div></li>
+
+<li>Start the Development Server:
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="php artisan serve"><pre>php artisan serve</pre></div></li>
+
+<li>Access the Site:
+
+Open your web browser and go to http://localhost:8000 to access the site.</li>
+</ol>
+
 ## CRM System
 ## Technologies Used
 ## License
